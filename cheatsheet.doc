@@ -1,0 +1,16 @@
+Lista de comandos
+
+- git init: Crea un nuevo repositorio de Git en un directorio local.
+- git add .: Agrega todos los archivos
+- git commit -m <mensaje>: Crea un nuevo commit con los cambios y le asigna un mensaje descriptivo.
+- Sube los commits locales al repositorio remoto.
+- git pull: Descarga y fusiona los cambios remotos en tu rama local.
+- git clone <URL>: Clona un repositorio remoto existente en un nuevo directorio local.
+- git branch <Nombre de la rama>: Crea una nueva rama de trabajo.
+- git ls: Muestra una lista de archivos y directorios en el directorio de trabajo actual.
+- git touch <Archivo>: Crea un nuevo archivo vacío.
+- git mkdir <directorio>: Crea un nuevo directorio.
+- git status: Muestra el estado actual del repositorio, incluyendo los cambios sin hacer commit y los archivos modificados.
+- git rm <archivo>: Elimina un archivo del repositorio y del sistema de archivos.
+- git clear: Limpia la pantalla de la consola.
+- git cd <directorio>: Cambia el directorio de trabajo actual al directorio especificado.
