@@ -1,0 +1,12 @@
+Entrega 4.
+
+-IP Privada y pública de la máquina virtual.
+
+-Dirección MAC
+
+-¿Es diferente a la IP pública y privada de nuetra máquina host?
+
+
+
+
+
