@@ -11,6 +11,8 @@ direcciónHW 08:00:27:C6:19:9f
 
 -¿Es diferente a la IP pública y privada de nuetra máquina host?
 
+Las direcciones IP públicas se utilizan al interactuar con Internet, mientras que las privadas operan con una red local. Tanto las direcciones IP públicas como las privadas permiten a los dispositivos comunicarse entre ellos.
+
 
 
 
