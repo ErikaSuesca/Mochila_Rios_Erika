@@ -2,7 +2,12 @@ Entrega 4.
 
 -IP Privada y pública de la máquina virtual.
 
--Dirección MAC
+Direc. inet: 10.0.2.15 Difus.: 10.0.2.255 Masc: 255.255.255.0
+Dirección inet6: fe80: :a00:27ff:fec6:199f/64
+
+-Dirección MAC 
+
+direcciónHW 08:00:27:C6:19:9f
 
 -¿Es diferente a la IP pública y privada de nuetra máquina host?
 
