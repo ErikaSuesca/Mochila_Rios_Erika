@@ -1,0 +1,13 @@
+Resumen Entrega 5
+
+1. Desde mi maquina virtual configure la red.
+2. Verifique con ifconfig las IP
+3. Instale telnet 
+4. Verifique que estuviera activa
+5. Abri la maquina de mi host para conectarme con telnet y mi IP
+
+Por facilidad hice la ejercitacion con Killercoda.
+
+6. Ingrese con mi usuario y clone mi repositorio de la mochila en killercoda
+7. Cree el archivo en la rama entrega5
+8. Y agregue todos los cambios a mi mochila.
